@@ -1,0 +1,15 @@
+{
+  "name": "translate-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node --trace-warnings ./translate/index.js "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "md5": "^2.3.0"
+  }
+}
